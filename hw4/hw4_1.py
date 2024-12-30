@@ -89,4 +89,6 @@ ax.set_xlabel("X")
 ax.set_ylabel("Y")
 ax.set_zlabel("Z")
 ax.legend()
+# Top view of the trajectory
+ax.view_init(elev=0, azim=90)
 plt.show()
