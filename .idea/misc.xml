@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="van_086761_hw4" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="van_086761_hw4" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="myenv" project-jdk-type="Python SDK" />
 </project>
